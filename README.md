@@ -6,13 +6,14 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a Backend Developer
+- 🏢 I am currently working as a Backend Developer.
 - 🎓 Specialized in Spring Boot and Microservices.
-- 🔒 Expertise in Spring Security, JWT, OAuth, and IAM (e.g., Keycloak)
-- 💾 Experienced with Relational Databases: Oracle, MySQL, SQL Server
-- 🛢️ Familiar with NoSQL Databases: MongoDB
-- 🧪 Skilled in Testing Tools: JUnit, Mockito, Unit Testing
-- 💻 Proficient in Programming Languages: Java, Kotlin and PHP
+- ☁️ Cloud technology microservicios Spring Boot 3, Eureka, Gateway, LoadBalancer, Resilience4J, Rest, OAuth 2.1, Docker.
+- 🔒 Expertise in Spring Security JWT,  AOP, JPA, RESTful, AWS EC2, Angular and React.
+- 💾 Experienced with Relational Databases: Oracle, MySQL, SQL Server.
+- 🛢️ Familiar with NoSQL Databases: MongoDB.
+- 🧪 Skilled in Testing Tools: JUnit, Mockito, Unit Testing.
+- 💻 Proficient in Programming Languages: Java, Kotlin and PHP.
 
 <br>
 

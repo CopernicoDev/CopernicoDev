@@ -12,7 +12,7 @@
 - 💾 Experienced with Relational Databases: Oracle, MySQL, SQL Server
 - 🛢️ Familiar with NoSQL Databases: MongoDB
 - 🧪 Skilled in Testing Tools: JUnit, Mockito, Unit Testing
-- 💻 Proficient in Programming Languages: Java, Kotlin, PHP, C#
+- 💻 Proficient in Programming Languages: Java, Kotlin and PHP
 
 <br>
 

@@ -36,7 +36,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,css,html,php,theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,css,html,javascript,theme=light)](https://skillicons.dev)
 
 <br>
 

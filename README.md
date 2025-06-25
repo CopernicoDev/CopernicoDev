@@ -44,7 +44,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=github,mysql,mongo,spring,figma,react,angular,aws&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,mysql,mongo,spring,figma,react,angular,aws&)](https://skillicons.dev)
 
 <br>
 

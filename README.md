@@ -11,7 +11,6 @@
 - ☁️ Cloud technology microservicios Spring Boot 3, Eureka, Gateway, LoadBalancer, Resilience4J, Rest, OAuth 2.1, Docker.
 - 🔒 Expertise in Spring Security JWT,  AOP, JPA, RESTful, AWS EC2, Angular and React.
 - 💾 Experienced with Relational Databases: Oracle, MySQL, SQL Server.
-- 🛢️ Familiar with NoSQL Databases: MongoDB.
 - 🧪 Skilled in Testing Tools: JUnit, Mockito, Unit Testing.
 - 💻 Proficient in Programming Languages: Java and Kotlin.
 

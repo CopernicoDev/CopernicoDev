@@ -43,7 +43,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=github,mysql,spring,figma,react,angular,androidstudio,aws&)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,mysql,spring,figma,angular,androidstudio,aws&)](https://skillicons.dev)
 
 <br>
 
